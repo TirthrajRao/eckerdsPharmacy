@@ -1,0 +1,7 @@
+{
+  "name": "eckerdsPharmacy",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
